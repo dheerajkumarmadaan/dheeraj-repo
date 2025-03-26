@@ -1,0 +1,9 @@
+Hello! This is a sample test file.
+
+This file contains some sample content for testing purposes.
+Features:
+- Sample text
+- Multiple lines
+- Basic formatting
+
+Created for testing branch and PR workflow.
