@@ -1,0 +1,8 @@
+This is a sample test file.
+
+It contains some example text for demonstration purposes.
+
+Features:
+- Plain text format
+- Multiple lines
+- Sample bullet points
